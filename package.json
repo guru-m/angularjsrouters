@@ -8,8 +8,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "browserify ./project/app/index.js -o ./project/dist/index.js"
   },
-  "author": "Marcos Costa",
-  "license": "ISC",
+  "author": "Abc",
+  "license": "",
   "dependencies": {
     "@uirouter/angularjs": "^1.0.4",
     "angular": "^1.6.4",
